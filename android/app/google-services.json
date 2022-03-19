@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "381258365535",
+    "project_id": "percobaancrud-57b08",
+    "storage_bucket": "percobaancrud-57b08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381258365535:android:97d47769ba9606ba61b9ea",
+        "android_client_info": {
+          "package_name": "com.example.crud_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381258365535-ljhvsdef5krim2k4pg5vqde2rils7tg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crud_firestore",
+            "certificate_hash": "a1debf876eebc944117ca4af5df2f8cc5c64ebd5"
+          }
+        },
+        {
+          "client_id": "381258365535-qmqkcjaferj5baln750sek3ptvvfvm3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnBVxGBoPhje4oMSrCfIJXfKEA6Vt_jGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381258365535-qmqkcjaferj5baln750sek3ptvvfvm3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
